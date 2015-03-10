@@ -1,0 +1,5 @@
+Department	0	PRIMARY	1	deptID	""	4	""	""	""	HASH	""	""
+
+Table	Non_unique	Key_name	Seq_in_index	Column_name	Collation	Cardinality	Sub_part	Packed	Null	Index_type	Comment	Index_comment
+Employee	0	PRIMARY	1	empID	""	1011	""	""	""	HASH	""	""
+Employee	1	deptID	1	deptID	""	3	""	""	YES	HASH	""	""
